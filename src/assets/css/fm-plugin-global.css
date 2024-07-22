@@ -1,0 +1,46 @@
+#wpcontent {
+    padding-left: 0 !important;
+}
+
+.fm-content {
+  padding: 30px;
+}
+
+h1.wp-heading-inline {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+
+
+.fm-btn {
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-shadow: none;
+  box-shadow: none;
+  outline: none;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 12px;
+  min-height: 35px;
+}
+.fm-btn-orange {
+  background-color: #e27730;
+  border-color: #e27730;
+}
+.fm-btn-gray {
+  background-color: #738e9e;
+  border-color: #738e9e;
+}
+.fm-btn-red {
+  background-color: #cd3106;
+  border-color: #cd3106;
+}

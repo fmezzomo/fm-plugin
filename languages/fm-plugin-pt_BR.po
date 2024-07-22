@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fabio Mezzomo Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-21 02:50+0000\n"
+"PO-Revision-Date: 2023-08-26 20:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.3\n"
+"X-Domain: fm-plugin"
+
+#: classes/class-fm-plugin-translation.php:31
+msgid "Add Email"
+msgstr "Add Email"
+
+#: classes/class-fm-plugin-translation.php:19
+msgid "Emails"
+msgstr "Emails"
+
+#. Author of the plugin
+msgid "Fabio Mezzomo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fabio Mezzomo Plugin"
+msgstr ""
+
+#: classes/class-fm-plugin.php:173
+msgid "Failed to save!"
+msgstr "Falha ao salvar!"
+
+#: classes/class-fm-plugin-translation.php:21
+msgid "Graph"
+msgstr "Gráfico"
+
+#: classes/class-fm-plugin-translation.php:25
+msgid "Graph Tab"
+msgstr "Tabela de Gráfico"
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/fabio-mezzomo/"
+msgstr ""
+
+#: classes/class-fm-plugin-translation.php:29
+msgid "Human date"
+msgstr "Data Humana"
+
+#: classes/class-fm-plugin-translation.php:24
+msgid "Loading graph data..."
+msgstr "Carregando dados..."
+
+#: classes/class-fm-plugin-translation.php:27
+msgid "Number of Rows"
+msgstr "Número de linhas"
+
+#. Number of rows alert
+msgid "Number of Rows must be between 1 and 5"
+msgstr "Número de linhas deve estar entre 1 e 5"
+
+#: classes/class-fm-plugin-translation.php:32
+msgid "Remove"
+msgstr "Remover"
+
+#: classes/class-fm-plugin-translation.php:33
+msgid "Save Settings"
+msgstr "Salvar"
+
+#: classes/class-fm-plugin-translation.php:30
+msgid ""
+"Select to date column shows the date in human readable format than Unix "
+"timestamp."
+msgstr ""
+"Selecione para exibir a data legível para humanos ao invés de Unix timestamp"
+
+#: classes/class-fm-plugin-translation.php:22
+msgid "Settings"
+msgstr "Configurações"
+
+#: classes/class-fm-plugin-translation.php:26
+msgid "Settings Tab"
+msgstr "Aba de configurações"
+
+#: classes/class-fm-plugin.php:170
+msgid "Settings updated successfully."
+msgstr "Configurações salvas com sucesso"
+
+#: classes/class-fm-plugin-translation.php:20
+msgid "Table"
+msgstr "Tabela"
+
+#: classes/class-fm-plugin-translation.php:23
+msgid "Top Pages"
+msgstr "Páginas"
+
+#: classes/class-fm-plugin-translation.php:28
+msgid "Type the number of rows you want to show."
+msgstr "Quantidade de linhas para exibir"
+
+#. Description of the plugin
+msgid "WordPress Challenge Code"
+msgstr ""
+
+#. Data from dataTable
+msgid "Title"
+msgstr "Título"
+
+#. Data from dataTable
+msgid "Pageviews"
+msgstr "Visualizações"
+
+#. Data from dataTable
+msgid "Date"
+msgstr "Data"
+
+#. Validation email
+msgid "Insert valid email"
+msgstr "Insira email válido"
